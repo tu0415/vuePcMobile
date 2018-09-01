@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="搜索结果页" transform="translate(-1130.000000, -106.000000)" fill="#FFFFFF">
+            <g id="Group-20" transform="translate(1046.000000, 100.000000)">
+                <g id="nav_icon_search_def" transform="translate(78.000000, 0.000000)">
+                    <g id="Combined-Shape" transform="translate(3.035714, 2.857143)">
+                        <path d="M13.3928571,17.1428571 C9.25072152,17.1428571 5.89285714,13.7849928 5.89285714,9.64285714 C5.89285714,5.50072152 9.25072152,2.14285714 13.3928571,2.14285714 C17.5349928,2.14285714 20.8928571,5.50072152 20.8928571,9.64285714 C20.8928571,13.7849928 17.5349928,17.1428571 13.3928571,17.1428571 Z M13.3928571,15 C16.3515254,15 18.75,12.6015254 18.75,9.64285714 C18.75,6.68418884 16.3515254,4.28571429 13.3928571,4.28571429 C10.4341888,4.28571429 8.03571429,6.68418884 8.03571429,9.64285714 C8.03571429,12.6015254 10.4341888,15 13.3928571,15 Z M12.3701299,18.75 L14.512987,18.75 L14.512987,23.961039 L12.3701299,23.961039 L12.3701299,18.75 Z" transform="translate(13.392857, 13.051948) rotate(-45.000000) translate(-13.392857, -13.051948) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

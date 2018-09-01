@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="231px" height="119px" viewBox="0 0 231 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="钱包" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.6">
+        <g id="钱包---兑换邀请码---购买" transform="translate(-649.000000, -199.000000)" fill="#000000">
+            <g id="Group-2" transform="translate(649.000000, 199.000000)">
+                <path d="M6.55716907e-15,67.2 L0,2.8 C-1.8937905e-16,1.2536027 1.2536027,4.72496067e-15 2.8,4.4408921e-15 L228.2,0 C229.746397,-2.84068575e-16 231,1.2536027 231,2.8 L231,67.2 C227.520606,67.2 224.7,70.0206061 224.7,73.5 C224.7,76.9793939 227.520606,79.8 231,79.8 L231,116.2 C231,117.746397 229.746397,119 228.2,119 L2.8,119 C1.2536027,119 1.17356985e-14,117.746397 1.15463195e-14,116.2 L7.84009346e-15,79.8 C3.47939392,79.8 6.3,76.9793939 6.3,73.5 C6.3,70.0206061 3.47939392,67.2 8.49350392e-15,67.2 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

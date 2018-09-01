@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>list_icon_money_def</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8" transform="translate(-73.000000, -84.000000)">
+            <g id="list_icon_money_def" transform="translate(73.000000, 84.000000)">
+                <rect id="Rectangle-5" x="0" y="0" width="40" height="40"></rect>
+                <g id="bi">
+                    <rect id="Rectangle-5" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M19.9999841,5 C11.7163162,5 5,11.7163162 5,20.0000159 C5,28.2837156 11.7163162,35 19.9999841,35 C28.2837156,35 35.0000637,28.2837156 35.0000637,20.0000159 C35.0000637,11.7163162 28.2836838,5 19.9999841,5 Z" id="Path" fill="#FFB001"></path>
+                    <path d="M20.0000006,7.50001516 C26.8917548,7.50001516 32.5000158,13.1082761 32.5000158,20 C32.5000158,26.8917239 26.8917548,32.4999848 20.0000006,32.4999848 C13.1082767,32.4999848 7.50001577,26.8917542 7.50001577,20 C7.50001577,13.1082458 13.1082767,7.50001516 20.0000006,7.50001516 Z" id="Shape" fill="#FFF4A5" fill-rule="nonzero"></path>
+                    <polygon id="Z" fill="#FFB001" points="14.3887531 27.0183981 14.3887531 24.5524031 21.500424 15.7690278 15.1922796 15.7690278 15.1922796 13.4785156 25.1024391 13.4785156 25.1024391 15.6027809 17.6859824 24.7371218 25.3887531 24.7371218 25.3887531 27.0183981"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

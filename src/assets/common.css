@@ -1,0 +1,127 @@
+@charset "utf-8";
+html,body {height: 100%;}
+html,body,p,h1,h2,h3,h4,h5,h6,ul,dl,dd,td,input,fieldset,textarea,option{ margin:0; padding:0;}
+li{list-style:none;}
+a{text-decoration:none;}
+img{border:none; vertical-align:top;}
+img[src='']{ opacity:0; }
+a,input{outline:none;}
+body{font-family: 'Avenir', Helvetica, Arial, sans-serif;font-size: 12px;}
+
+.clear{zoom:1;}
+.clear:after{content:"."; display:block; clear:both; height:0; visibility:hidden;}
+
+input::-webkit-input-placeholder{
+  color: #9b9b9b;
+}
+
+.fl{float:left;}
+.fr{float:right;}
+
+.ql-size-huge{
+  font-size: 2.5rem;
+}
+.ql-size-large{
+  font-size: 1.5rem;
+}
+.ql-size-small{
+  font-size: 0.75rem;
+}
+
+.searchKey{
+  color: #D0021B;
+  text-decoration: none;
+}
+
+
+/* 分页样式 */
+.el-pagination__editor {
+  line-height: 18px;
+  padding: 0 2px;
+  height: 28px;
+  text-align: center;
+  margin: 0 2px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.el-pagination button,.el-pagination span:not([class*=suffix]) {
+  display: inline-block;
+  font-size: 13px;
+  min-width: 28px;
+  height: 28px;
+  line-height: 28px;
+  vertical-align: top;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+.el-pagination__editor.el-input {
+  width: 40px
+}
+
+.el-pagination .btn-next,.el-pagination .btn-prev {
+  background: center center no-repeat #fff;
+  background-size: 16px;
+  cursor: pointer;
+  border: 1px solid #d1e1e5;
+  margin: 0;
+  color: #303133
+}
+
+.el-pagination .btn-prev {
+  border-right: 0;
+  padding-right: 6px;
+}
+
+.el-pagination .btn-next {
+  padding-left: 6px;
+}
+
+.el-pager li {
+  padding: 0 4px;
+  background: #fff;
+  font-size: 13px;
+  min-width: 28px;
+  font-weight: normal;
+  height: 28px;
+  line-height: 28px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid #d1e1e5;
+  border-right: 0;
+}
+
+.el-pager li.active+li {
+  border-left: 0
+}
+
+.el-pager li:hover {
+  color: #1FBCD2
+}
+
+.el-pager li.active {
+  color: #fff;
+  cursor: default;
+  border-color: #1fbcd2;
+  background-color: #1fbcd2;
+}
+
+.el-table__empty-block{
+  min-height: 40px;
+}
+.el-table td, .el-table th{
+  padding: 4px 0;
+}
+.el-table th{
+  background: #EEEEEE;
+  font-size: 12px;
+  color: #4A505A;
+  text-align: center;
+}
+
+.el-table td{
+  font-size: 12px;
+}
